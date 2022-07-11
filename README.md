@@ -1,5 +1,5 @@
-# Python_Code
-Analisis Geolokasi Pos Pemadam Kebakaran di Jakarta Barat
+# Thesis
+Analisis Geolokasi Pos Pemadam Kebakaran di Jakarta Barat Menggunakan Data Analytics Machine Learning Data Mining
 
 - Script ini digunakan untuk melakukan analisis geolokasi Pos Pemadam Kebakaran baru di Jakarta Barat berdasarkan data kebakaran di Jakarta Barat tahun 2020.
 - Data kebakaran di Jakarta Barat tahun 2020 disimpan dalam bentuk Comma Separated Values (CSV) yang kemudian diimport ke dalam Jupyter Notebook.
